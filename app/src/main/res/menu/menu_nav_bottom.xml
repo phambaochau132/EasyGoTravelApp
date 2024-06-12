@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/btn_explore"
+        android:icon="@drawable/ic_explore"
+        android:title="@string/explore"
+        android:iconTint="@color/color_7C7C7C">
+    </item>
+    <item android:id="@+id/btn_my_trip"
+        android:icon="@drawable/ic_my_trips"
+        android:title="@string/my_trips">
+    </item>
+    <item android:id="@+id/btn_favourite"
+        android:icon="@drawable/ic_favourite"
+        android:title="@string/favourite">
+    </item>
+    <item android:id="@+id/btn_profile"
+        android:icon="@drawable/ic_profiles"
+        android:title="@string/profile">
+    </item>
+
+</menu>

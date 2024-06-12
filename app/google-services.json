@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "720215833543",
+    "firebase_url": "https://easygo---travel-app-default-rtdb.firebaseio.com",
+    "project_id": "easygo---travel-app",
+    "storage_bucket": "easygo---travel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720215833543:android:81a11f094364856b8a37e2",
+        "android_client_info": {
+          "package_name": "com.example.easygo_travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720215833543-7am5bl9ccq3m5poi9vs9db250edr8142.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easygo_travelapp",
+            "certificate_hash": "8fb9130923080deadf28652d8a38c0526fbd8b31"
+          }
+        },
+        {
+          "client_id": "720215833543-24j5ni4qkbr5803pqk0121u21m4al4d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGb1FxWvAUO-yLT2fmFregdhEvriV8MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720215833543-24j5ni4qkbr5803pqk0121u21m4al4d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

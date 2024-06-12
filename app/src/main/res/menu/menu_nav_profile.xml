@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notifications"
+            android:title="@string/notifications">
+        </item>
+
+        <item android:id="@+id/nav_card"
+            android:icon="@drawable/ic_credit_card"
+            android:title="My cards"/>
+
+        <item android:id="@+id/nav_language"
+            android:icon="@drawable/ic_language"
+            android:title="Language"/>
+
+        <item android:id="@+id/nav_currency"
+            android:icon="@drawable/ic_dollar_2"
+            android:title="Currency"/>
+    </group>
+    <group>
+        <item android:id="@+id/nav_termAndCondition"
+            android:icon="@drawable/ic_question"
+            android:title="@string/terms_amp_conditions"
+            />
+
+        <item android:id="@+id/nav_policy"
+            android:icon="@drawable/ic_security_2"
+            android:title="@string/privacy_policy"/>
+
+        <item android:id="@+id/nav_help_center"
+            android:icon="@drawable/ic_headphones"
+            android:title="@string/help_center"/>
+
+        <item android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_info"
+            android:title="@string/about_us"/>
+    </group>
+
+</menu>

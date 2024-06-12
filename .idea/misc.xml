@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable-anydpi/ic_action_input.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/bg_logo.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/ic_dotmatrix_map_of_world.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/ic_icon_facebook.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/ic_icon_phone.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/ic_logo.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/ic_oval.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/layers.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/layers_line.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/shape_button.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/shape_button_circle.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/shape_button_login_fb.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/shape_button_login_phone.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/shape_circle.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/shape_line.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/drawable/shape_stroke.xml" value="0.1125" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/layout/activity_login_phone_number.xml" value="0.22826086956521738" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/layout/activity_phone_verification.xml" value="0.2" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/layout/ctv_edit_text.xml" value="0.264" />
+        <entry key="..\:/EasyGoTravelApp/app/src/main/res/layout/ctv_input_otp.xml" value="0.2" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable-anydpi/ic_action_back.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_1_dollar_2.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_5_headphones.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_6_info.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_7_question.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_7_security_2.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic__6_info.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic___credit_card_copy_6.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_arrow.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_credit_card.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_dollar_2.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_favourite.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_flight.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_group_9.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_headphones.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_icon_camera.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_icon_edit.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_info.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_language.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_marker.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_menu_detail.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_notification.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_notifications.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_ovalcamera.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_path.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_path_copy_2.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_profiles.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_question.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_security_2.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_shape.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_share.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_vip.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/layer_focus.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/layers.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/layers_line.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/layers_line_focus.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shap_boder_radius.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_boder_radius.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_border_circle.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_border_radius.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_border_radius_black.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_border_radius_top.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_button_circle.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_button_login.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_circle.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_line.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_line_focus.xml" value="0.1475" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_edit_profile.xml" value="0.264" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_item_details.xml" value="0.264" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_login_phone_number.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_onboard.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_phone_verification.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_profile.xml" value="0.25443786982248523" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_sign_up.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_tour.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_tour_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_welcome.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_edit_text.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_group_input_otp.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_input_otp.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_list_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_toolbar.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/fragment_map.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/fragment_onboarding1.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/fragment_onboarding2.xml" value="0.10989583333333333" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/item_photo.xml" value="0.1721311475409836" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/item_review.xml" value="0.2" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/item_scenic.xml" value="0.16799999999999998" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/item_tour_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/item_tour_favourite.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/item_tour_ticket.xml" value="0.264" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/layout/layout_header_nav.xml" value="0.22826086956521738" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/menu/menu_nav_bottom.xml" value="0.25" />
+        <entry key="..\:/TravelApp/EasyGoTravelApp/app/src/main/res/menu/menu_nav_profile.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable-anydpi/ic_action_back.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable-anydpi/ic_action_cancel.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable-anydpi/ic_action_input.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable-anydpi/ic_action_next.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable-anydpi/ic_action_tab.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_dotmatrix_map_of_world_full.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_group_9.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_icon_facebook.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_icon_phone.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_logo.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_menu.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_path.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_path_copy_2.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/ic_rectangle_copy.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/layer_focus.xml" value="0.152" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/layers.xml" value="0.152" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/layers_line.xml" value="0.152" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/layers_line_focus.xml" value="0.152" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_button_circle.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_button_login.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_circle.xml" value="0.1125" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_line.xml" value="0.152" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/drawable/shape_line_focus.xml" value="0.152" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_login_phone_number.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_onboard.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_onboarding.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_onboarding1.xml" value="0.2" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_onboarding2.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_onboarding3.xml" value="0.264" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_phone_verification.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/activity_welcome.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_edit_text.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_group_input_otp.xml" value="0.291970802919708" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_input_otp.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/ctv_list_item.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/fragment_onboard.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/fragment_onboarding1.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/fragment_onboarding2.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/fragment_onboarding3.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/layout/layout_header_nav.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/menu/menu_nav.xml" value="0.25" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1455" />
+        <entry key="..\:/Users/admin/Documents/TravelApp/EasyGoTravelApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1455" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.032858516123394216" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

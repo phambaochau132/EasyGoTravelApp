@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingHorizontal="10dp"
+    android:weightSum="6"
+    android:layout_marginTop="10dp">
+        <com.example.easygo_travelapp.customView.CTInputOTP
+            android:id="@+id/ctiCode1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+        <com.example.easygo_travelapp.customView.CTInputOTP
+            android:id="@+id/ctiCode2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+        <com.example.easygo_travelapp.customView.CTInputOTP
+            android:id="@+id/ctiCode3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+        <com.example.easygo_travelapp.customView.CTInputOTP
+            android:id="@+id/ctiCode4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+        <com.example.easygo_travelapp.customView.CTInputOTP
+            android:id="@+id/ctiCode5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+        <com.example.easygo_travelapp.customView.CTInputOTP
+            android:id="@+id/ctiCode6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+</LinearLayout>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingVertical="20dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cvAvatar"
+        android:layout_width="90dp"
+        android:layout_height="120dp"
+        app:cardCornerRadius="4dp"
+        app:layout_constraintBottom_toBottomOf="@id/from"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imgTour"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:src="@mipmap/ic_launcher" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tvNameTour"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:maxLines="2"
+        android:textColor="@color/color_000000"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/cvAvatar"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imgStar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_star"
+        app:layout_constraintStart_toStartOf="@id/tvNameTour"
+        app:layout_constraintTop_toBottomOf="@id/tvNameTour" />
+
+    <ImageView
+        android:id="@+id/imgStar2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:background="@drawable/ic_star"
+        app:layout_constraintStart_toEndOf="@id/imgStar1"
+        app:layout_constraintTop_toTopOf="@id/imgStar1" />
+
+    <ImageView
+        android:id="@+id/imgStar3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:background="@drawable/ic_star"
+        app:layout_constraintStart_toEndOf="@id/imgStar2"
+        app:layout_constraintTop_toTopOf="@id/imgStar2" />
+
+    <ImageView
+        android:id="@+id/imgStar4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:background="@drawable/ic_star"
+        app:layout_constraintStart_toEndOf="@id/imgStar3"
+        app:layout_constraintTop_toTopOf="@id/imgStar3" />
+
+    <ImageView
+        android:id="@+id/imgStar5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:background="@drawable/ic_star"
+        app:layout_constraintStart_toEndOf="@id/imgStar4"
+        app:layout_constraintTop_toTopOf="@id/imgStar4" />
+
+    <TextView
+        android:id="@+id/review"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:textColor="@color/color_BEC2CE"
+        android:textSize="13sp"
+        app:layout_constraintStart_toEndOf="@id/imgStar5"
+        app:layout_constraintTop_toTopOf="@id/imgStar5" />
+
+    <TextView
+        android:id="@+id/from"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/from"
+        android:textColor="@color/color_BEC2CE"
+        android:textSize="13sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@id/tvNameTour" />
+
+    <TextView
+        android:id="@+id/tvPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:textColor="@color/color_FF2D55"
+        android:textSize="17dp"
+        app:layout_constraintBottom_toBottomOf="@id/from"
+        app:layout_constraintStart_toEndOf="@id/from" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

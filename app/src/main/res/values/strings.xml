@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">EasyGo - Travel App</string>
+    <string name="don_t_have_">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="connect_with_phone">Connect with Phone</string>
+    <string name="connect_with_facebook">Connect with Facebook</string>
+    <string name="easy_discovering">Easy discovering new places and share these between your friends</string>
+    <string name="enter_your_">Enter your phone number</string>
+    <string name="phone_verification">Phone Verification</string>
+    <string name="your_phone_">Your phone number</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="enter_the_4">Enter the 4 digit code sent to your phone</string>
+    <string name="code_was_invalid">The verification code entered was invalid</string>
+    <string name="i_have_a_pr">I have a problem.</string>
+
+    <string name="hi_welcome_">Hi,\nWelcome back!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_your">Forgot your password?</string>
+    <string name="please_enter_full">Please enter full content</string>
+    <string name="confirm_password_not_match">Confirm password does not match</string>
+    <string name="account_incorrect">Account or Password is incorrect</string>
+    <string name="email_not_exist">Account email is not exist</string>
+
+    <string name="forgot_pass">Forgot password</string>
+    <string name="please_enter">Please enter your email address. You will receive a link to create a new password via email.</string>
+    <string name="email">Email</string>
+    <string name="send">Send</string>
+    <string name="log_out">Log out</string>
+
+    <string name="plan_a_trip">Plan a trip</string>
+    <string name="detail_plan_a_trip">You can select the date and also We can help you by suggesting you to set a good schedule</string>
+    <string name="book_a_flight">Book a flight</string>
+    <string name="found_a_flight">Found a flight that matches your destination and schedule? Book it instanly in just a few taps</string>
+    <string name="enjoy_your_trip">Enjoy your trip</string>
+    <string name="detail_enjoy_your_trip">Easy discovering new places and share these between your friends and travel together</string>
+    <string name="skip">SKIP</string>
+    <string name="next">NEXT</string>
+    <string name="get_started">Get started!</string>
+
+    <string name="what_are_you">What are you looking for?</string>
+    <string name="search">Search</string>
+    <string name="experiences">Experiences in the spotlight</string>
+
+    <string name="facebook_app_id">1064045637571225</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">1064045637571225</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer close</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="my_trips">My trips</string>
+    <string name="favourite">Favourite</string>
+    <string name="profile">Profile</string>
+    <string name="flights">Flights</string>
+    <string name="hotels">Hotels</string>
+    <string name="trains">Trains</string>
+    <string name="cars">Cars</string>
+    <string name="view_all">View all</string>
+    <string name="destinations_we_love">Destinations we love</string>
+    <string name="deals">Deals</string>
+
+    <string name="photos">Photos</string>
+    <string name="from">from</string>
+    <string name="tour_and_ticket"><![CDATA[Tour & Ticket]]></string>
+    <string name="write_a_review">Write a review</string>
+    <string name="reply">Reply</string>
+    <string name="review">Reviews</string>
+    <string name="add_to_my_trips">Add to my trips</string>
+    <string name="vip_member">VIP member</string>
+    <string name="notifications">Notifications</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & conditions]]></string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="help_center">Help center</string>
+    <string name="about_us">About us</string>
+    <string name="my_cards">My cards</string>
+    <string name="language">Language</string>
+    <string name="currency">Currency</string>
+    <string name="save">save</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="not_been_set">Not been set</string>
+    <string name="avatar_changed_success">Avatar changed successfully</string>
+
+
+    <string name="MyAppKey">AIzaSyBmGXfcm5JuBE61KzW8v7dgsO894rodVoA</string>
+    <string name="days">days</string>
+    <string name="write_your_review">Write your review ...</string>
+    <string name="cities">cities</string>
+    <string name="tours">Tours</string>
+
+</resources>
